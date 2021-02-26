@@ -1088,7 +1088,7 @@ font-weight: 500;
 page-header
 ======================================================*/
 .page-head{
-    background: #494C53 url("../../assets/pinecone/_0082.jpg") no-repeat scroll center center/ cover;
+    background: #494C53 url("https://raw.githubusercontent.com/DakotaList/binnerestate/master/assets/pinecone/_0082.jpg") no-repeat scroll center center/ cover;
     color: #FFF;
     position: static;
     min-height: 401px;
